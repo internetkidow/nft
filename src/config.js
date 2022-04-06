@@ -13,7 +13,7 @@ export const CONFIG = {
     "timeseries_chart": true,
 
     // 5. (Optional) Set your banner image
-    "banner_picture": "https://cdn.shopify.com/s/files/1/0088/7557/3306/files/21_Headtripz_Website_Webanner_Shopify_1200x630_70769365-94d2-4db8-a939-95b016d49ded_1200x.png?v=1642708790",
+    "banner_picture": "https://i.ytimg.com/vi/1xof7z3BqLA/maxresdefault.jpg",
   },
 
   // Supported networks - just for your reference
